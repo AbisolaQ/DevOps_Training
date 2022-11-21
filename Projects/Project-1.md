@@ -1,9 +1,9 @@
 ## My Documentation on Project-1
 `Apache_Status`
-![apache_status](.//Apache-status.png)
+![apache_status](./Images_P1/Apache-status.png)
 
 `MySql_status`
-![Mysql-status](.//Mysql-status.png)
+![Mysql-status](./Images_P1/Mysql-status.png)
 
 `MyEC2Instance`
-![MyEC2Intance_status](.//MyEC2Instance_status.png)
+![MyEC2Intance_status](./Images_P1/MyEC2Instance_status.png)
